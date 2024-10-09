@@ -1,0 +1,5 @@
+---
+Bug-Database: https://github.com/kubernetes/api/issues
+Bug-Submit: https://github.com/kubernetes/api/issues/new
+Repository: https://github.com/kubernetes/api.git
+Repository-Browse: https://github.com/kubernetes/api
